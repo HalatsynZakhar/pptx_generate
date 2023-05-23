@@ -9,7 +9,7 @@ inpTitle = input("Title: ")
 
 prs = Presentation()
 
-bullet_slide_layout = prs.slide_layouts[0]
+bullet_slide_layout = prs.slide_layouts[3]
 
 with open('input_orig.txt', 'r', encoding="utf-8") as f:
     input_orig = f.read()
@@ -70,3 +70,5 @@ for i in range(len(text_orig_list)):
     tf.paragraphs[0].font.color.rgb = RGBColor(255, 255, 255)
 
 prs.save(r"C:\Users\halat\Desktop\songs_pptx\{} - {}.pptx".format(inpSinger, inpTitle))
+
+input("Success")

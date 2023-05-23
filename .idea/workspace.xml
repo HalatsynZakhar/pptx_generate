@@ -8,12 +8,94 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/main/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/main/Analysis-00.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/main/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/main/EXE-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/main/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/main/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/main/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/main/PKG-00.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/main/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/main/base_library.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/main/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/build/main/main.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/main/main.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/main/main.pkg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/main/warn-main.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/main/warn-main.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/main/xref-main.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/main/xref-main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/PIL/_imaging.cp39-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/PIL/_imagingcms.cp39-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/PIL/_imagingft.cp39-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/PIL/_imagingtk.cp39-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/PIL/_webp.cp39-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/VCRUNTIME140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/_asyncio.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/_bz2.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/_ctypes.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/_decimal.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/_hashlib.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/_lzma.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/_multiprocessing.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/_overlapped.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/_queue.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/_socket.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/_ssl.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-console-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-datetime-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-debug-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-errorhandling-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-fibers-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-file-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-file-l1-2-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-file-l2-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-handle-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-heap-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-interlocked-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-libraryloader-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-localization-l1-2-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-memory-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-namedpipe-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-processenvironment-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-processthreads-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-processthreads-l1-1-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-profile-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-rtlsupport-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-string-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-synch-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-synch-l1-2-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-sysinfo-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-timezone-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-core-util-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-crt-conio-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-crt-convert-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-crt-environment-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-crt-filesystem-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-crt-heap-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-crt-locale-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-crt-math-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-crt-process-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-crt-runtime-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-crt-stdio-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-crt-string-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-crt-time-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/api-ms-win-crt-utility-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/certifi/cacert.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/certifi/py.typed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/libcrypto-1_1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/libffi-7.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/libssl-1_1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/lxml/_elementpath.cp39-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/lxml/builder.cp39-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/lxml/etree.cp39-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/lxml/html/clean.cp39-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/lxml/html/diff.cp39-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/lxml/isoschematron/resources/rng/iso-schematron.rng" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/lxml/isoschematron/resources/xsl/RNG2Schtrn.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/lxml/isoschematron/resources/xsl/XSD2Schtrn.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_abstract_expand.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_dsdl_include.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_schematron_message.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_schematron_skeleton_for_xslt1.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_svrl_for_xslt1.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/lxml/objectify.cp39-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/lxml/sax.cp39-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/pyexpat.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/python39.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/select.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/ucrtbase.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main/unicodedata.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.spec" beforeDir="false" afterPath="$PROJECT_DIR$/main.spec" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,17 +109,21 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QAaSFLmvm03CaUsgQrh8FtZqMa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,5 +134,8 @@
       <updated>1684798839006</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

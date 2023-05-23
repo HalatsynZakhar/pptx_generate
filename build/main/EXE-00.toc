@@ -50,7 +50,7 @@
  [],
  False,
  False,
- 1684875722,
+ 1684875839,
  [('run.exe',
    'C:\\Users\\halat\\PycharmProjects\\pptx_generate\\venv\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
    'EXECUTABLE')])

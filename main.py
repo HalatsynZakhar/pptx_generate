@@ -9,7 +9,7 @@ inpTitle = input("Title: ")
 
 prs = Presentation()
 
-bullet_slide_layout = prs.slide_layouts[3]
+bullet_slide_layout = prs.slide_layouts[0]
 
 with open('input_orig.txt', 'r', encoding="utf-8") as f:
     input_orig = f.read()
